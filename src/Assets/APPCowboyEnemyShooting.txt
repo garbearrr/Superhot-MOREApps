@@ -1,0 +1,84 @@
+          _______
+         _JTTTTTL_
+           --
+           z   @
+           IIIII
+           IIIIIIII
+           IIIIIII I
+           IIIIII  I
+           SSSSS
+           GG GG
+           G    G
+           J    J
+          _______
+         _JTTTTTL_
+           \/
+           O   @
+           IIIII
+           IIIIIIII
+          IIIIIII I
+         IIIIIIIII
+           SSSSS
+           GG GG
+           G    G
+           J    J
+          _______
+         _JTTTTTL_
+           \/
+           O   @
+ $          IIIII
+$ $CCCC   IIIIIIIII
+      UII IIIIII I
+          IIIIIII
+          SSSSS
+          GG GG
+           G    G
+           J    J
+          _______
+         _JTTTTTL_
+           \/
+ $$        O   @
+ $          IIIII
+  $CCCC   IIIIIIIII
+      UII IIIIII I
+          IIIIIII
+          SSSSS
+          GG GG
+           G    G
+           J    J
+          _______
+$        _JTTTTTL_
+   $       \/
+ $         z   @
+  $        IIIII
+  CCCC   IIIIIIIII
+      UII IIIIII I
+          IIIIIII
+          SSSSS
+          GG GG
+           G    G
+           J    J
+   $      _______
+         _JTTTTTL_
+ $         \/
+     $     z   @
+           IIIII
+  CCCC   IIIIIIIII
+      UII IIIIII I
+          IIIIIII
+           SSSSS
+           GG GG
+           G    G
+           J    J
+          _______
+         _JTTTTTL_
+           \/
+           z   @
+           IIIII
+  CCCC   IIIIIIIII
+      UII IIIIII I
+          IIIIIII
+           SSSSS
+           GG GG
+           G    G
+           J    J

@@ -1,0 +1,72 @@
+       _______
+      _JTTTTTL_
+        --
+        z   @
+        IIIII
+        IIIIIIII
+        IIIIIII I
+        IIIIII  I
+        SSSSS
+        GG GG
+        G    G
+        J    J
+       _______
+      _JTTTTTL_
+         XX
+         @   @
+       @@@@III
+       @ IIIIIIII
+         IIIIIII I
+        IIIIII  I
+       SSSSS 
+       GG GG
+       G    G
+        J    J
+ 
+       _______
+      _JTTTTTL_
+        @  @   @
+        @@@@III
+       @  @IIIIIIII
+          IIIIIII I
+         IIIIII  I
+        SSSSS 
+       GG GG
+       G    G
+       J    J
+ 
+
+       _______
+      _JTTTTTL_ @
+          @@@@  III
+       @   @  IIIIIIII
+             IIIIIII I
+            IIIIII  I
+          SSSSS 
+        GG GG
+      G    G
+     J    J
+ 
+
+      
+  
+         
+       _______      III
+      _JTTTTTL_ IIIII I
+               IIIIII  I
+             SSSSS 
+           GG GG
+         G    G
+     J    J
+ 
+
+      
+  
+         
+             
+     
+                
+       _______          
+      _JTTTTTL_ SS 
+      GGGGGGGGGG  SSS  
+     J    J

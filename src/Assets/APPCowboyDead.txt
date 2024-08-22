@@ -1,0 +1,60 @@
+     ______
+    _XXXXXX_
+     GGGXX
+     GGGGGG 
+      GG--
+  T TTTTTTT TT 
+T  TTTTTTTTTT  ___
+T  TTTTTTTT  TTU
+   SSSSSSSS
+   TTT TTT
+    TT   TT
+    L     L     
+	______
+   _XXXXXX_
+    GGGXX
+    GGGGGG 
+     GG--
+ T TTTTTTT TT 
+  TTTTTTTTT  T
+  TTTTTTTT    TT
+  SSSSSSS
+  TTT TTT
+    TT   TT
+     L     L    
+
+_
+
+G 
+-
+TTT TT 
+TTTT  T
+TTTTT    TT
+SSSSSS
+ TTT TTT
+    TT   TT
+      L     L 
+	  	  
+
+
+
+
+	  
+TTTTTTTT
+TT 
+SSS
+TTTT TTTTT
+ TTTTT    TT
+      L     L
+	  	  
+
+
+
+
+	  
+
+TTTTTTTT 
+TT
+TTTT TTTTT
+TTTTT    TT
+ TTTT  L     L

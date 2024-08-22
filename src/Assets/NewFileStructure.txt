@@ -1,0 +1,300 @@
+﻿<Data>
+
+  <item type="exploit" name="FolderStructure.Data.item.name.SUPERHOT_EXE" tag ="1" unlockable="0"/>
+  <item type="app" appclass="APPspoilers" name="FolderStructure.Data.item.name.SPOILERS_EXE" unlockable="0" />
+  <item type="last" name="FolderStructure.Data.item.name.SUPELAST_EXE" appclass="APPplaylast" tag="1" unlockable="0"/>
+  <levels tag ="1337">
+    <item type="storylevels" name="FolderStructure.story.item.name.STORY" unlockable="0"/>
+  </levels>
+  <endless tag="1337">
+    <item type="readme" name="FolderStructure.endless.item.name.README_TXT" unlockable="0">FolderStructure.endless.item.A_HIGH_SCORE_BASED_ARCADE_VERSION</item>
+    <item type="endlesslevels" name="FolderStructure.endless.item.name.ENDLESS" unlockable="0"/>
+  </endless>
+  <challenges tag="1337">
+    <item type="readme" name="readme.txt">CHALLENGES
+
+All the story levels of SUPERHOT
+...WITH A TWIST. 
+
+MANY.
+TWISTS.
+
+An awesome, timed SPEEDRUN mode!
+Long awaited KATANA ONLY challenge.
+Harcore HARDMODE for the best.
+
+Have fun.
+</item>
+    <item type="challengelist" name="challengesList" />
+  </challenges>
+  <mods tag="1338">
+    <item type="readme" name="FolderStructure.mods.item.name.README_TXT">FolderStructure.mods.item.UNLOCK_MODIFIERS_BY_SCORING_KILLS</item>
+    <item type="deactivate" name="FolderStructure.mods.item.name.RESET_BAT">FolderStructure.mods.item.BATCH_FILE_SHORTCUT_FOR_DISABLING</item>
+    <item type="modslist" name="FolderStructure.mods.item.name.MODS" />
+  </mods>
+
+  <replays tag="1">
+  </replays>
+  <item type="readme" name="FolderStructure.Data.item.name.README_TXT" align="center" tag="1">FolderStructure.Data.item.PROUDLY_PRESENTS___BETA_VERSION</item>
+  <item type="app" name="FolderStructure.Data.item.name.REPLAYS_EXE" appclass="APPkillstagram" tag="1">FolderStructure.Data.item.KILLSTAGRAM_KILLSTAGRAM_KILLSTAGRAM</item>
+  <item type="app" name="FolderStructure.Data.item.name.RECRUIT_EXE" appclass="APPrecruitredirect" tag="1337">FolderStructure.Data.item.RECRUIT_DESCRIPTION</item>
+  <item type="app" name="FolderStructure.Data.item.name.CREDITS_EXE" appclass="APPcreditsfinal" tag="1337" />
+  <item type="app" name="FolderStructure.Data.item.name.MORE_EXE" align="center" appclass="APPmore" tag="1337">FolderStructure.Data.item.WANT_MORE</item>
+  <item type="app" name="FolderStructure.Data.item.name.QUIT_EXE" appclass="APPquit"/>
+  <item type="separator" name="" tag="1" />
+  <settings>
+    <item type="Controls" name="FolderStructure.settings.item.name.CONTROLS">FolderStructure.settings.item.CHANGE_GAME_SETTINGS</item>
+    <item type="Graphics" name="FolderStructure.settings.item.name.GRAPHICS">FolderStructure.settings.item.CHANGE_GRAPHIC_SETTINGS</item>
+    <item type="Audio" name="FolderStructure.settings.item.name.AUDIO">FolderStructure.settings.item.CHANGE_AUDIO_SETTINGS</item>
+    <item type="Physic" name="FolderStructure.settings.item.name.PHYSIC">FolderStructure.settings.item.name.CHANGE_ADVANCED_GAMEPLAY_SETTINGS</item>
+    <item type="softReset" name="FolderStructure.settings.item.name.RESTART_BAT">FolderStructure.settings.item.LAUNCH_NEW_GAME</item>
+    <item type="settingReset" name="FolderStructure.settings.item.name.RESET_BAT">FolderStructure.settings.item.RESET_PROGRESS</item>
+    <item type="hideUI" name="FolderStructure.settings.item.name.HIDEUI_BAT">FolderStructure.settings.item.HIDE_UI</item>
+    <item type="settingUnlock" name="FolderStructure.settings.item.name.UNLOCK_BAT">FolderStructure.settings.item.UNLOCK_EVERYTHING_DEBUG_ONLY_REMEMBER</item>
+	<item type="defaultGodmode" name="FolderStructure.settings.item.name.GODMODE_BAT">FolderStructure.settings.item.GOD_MODE</item>
+    <item type="userPicker" name="UserPick.bat">FolderStructure.settings.item.USER_PICKER</item>
+    <item type="app" name="FrameCap.bat" appclass="APPSetFramecap" unlockable="0"/>
+    <item type="app" name="Quality.bat" appclass="APPSetQuality" unlockable="0"/>
+    <item type="app" name="SRTimer.bat" appclass="APPSetSpeedrunTimer" unlockable="0"/>
+    <item type="app" name="Unlock.bat" appclass="APPUnlockEverything" unlockable="0"/>
+  </settings>
+  <!--<files showInBarebones = "true">-->
+  <!--<apps>-->
+  <apps>
+    <item type="app" name="FolderStructure.apps.item.name.CARPETS_EXE" appclass="APPcarpets" unlockable="0" />
+    <item type="app" name="FolderStructure.apps.item.name.CARTRIP_EXE" appclass="APPautocarpets" unlockable="0" />
+    <item type="app" name="FolderStructure.apps.item.name.GGROUPS_EXE" appclass="APPstreamchat" unlockable="0" />
+  </apps>
+  <demos>
+    <item type="app" name="morph.exe" appclass="AppAsciiMorph" unlockable="0"/>
+    <item type="app" name="FolderStructure.demos.item.name.SINUS1_EXE" appclass="APPsinus" unlockable="0" />
+    <item type="app" name="FolderStructure.demos.item.name.SINUS2_EXE" appclass="APPsinus2" unlockable="0" />
+    <item type="app" name="FolderStructure.demos.item.name.SINUS3_EXE" appclass="APPsinus3" unlockable="0" />
+    <item type="app" name="FolderStructure.demos.item.name.STARS_EXE" appclass="APPstars" unlockable="0" />
+    <item type="app" name="FolderStructure.demos.item.name.MIRRORS_EXE" appclass="APPmirrors" unlockable="0" />
+    <item type="app" name="FolderStructure.demos.item.name.LETTERS_EXE" appclass="APPletters" unlockable="0" />
+    <item type="app" name="FolderStructure.demos.item.name.FIRE_EXE" appclass="APPfire" unlockable="0" />
+    <item type="app" name="FolderStructure.demos.item.name.ROTOZOOM_EXE" appclass="APProtozoomer" unlockable="0" />
+    <item type="app" name="FolderStructure.demos.item.name.PIPES_EXE" appclass="APPpipes" unlockable="0" />
+    <item type="app" name="rotolines.exe" appclass="APProtolines" unlockable="0" />
+
+  </demos>
+  <cellular>
+    <item type="app" name="FolderStructure.cellular.item.name.LIFE_EXE" appclass="APPConway" unlockable="0" />
+    <item type="app" name="FolderStructure.cellular.item.name.ANT_EXE" appclass="APPAnt" unlockable="0" />
+    <item type="app" name="FolderStructure.cellular.item.name.FOREST_EXE" appclass="APPForest" unlockable="0" />
+    <item type="app" name="FolderStructure.cellular.item.name.SAND_EXE" appclass="APPsandbox" unlockable="0" />
+    <item type="app" name="FolderStructure.cellular.item.name.WATER_EXE" appclass="APPwaterbox" unlockable="0" />
+  </cellular>
+  <wires>
+    <item type="wir" name ="wires.exe" wirname="schemEmpty" />
+    <item type="wir" name="FolderStructure.wires.item.name.DIODES_WIR" wirname="schemDiodes" />
+    <item type="wir" name="FolderStructure.wires.item.name.REPEATER_WIR" wirname="schemRepeater" />
+    <item type="wir" name="FolderStructure.wires.item.name.GATEAND1_WIR" wirname="schemANDbasic" />
+    <item type="wir" name="FolderStructure.wires.item.name.GATEAND2_WIR" wirname="schemANDbasic2" />
+    <item type="wir" name="FolderStructure.wires.item.name.GATEAND3_WIR" wirname="schemANDbasic3" />
+    <item type="wir" name="FolderStructure.wires.item.name.BIGAND_WIR" wirname="schemAND" />
+    <item type="wir" name="FolderStructure.wires.item.name.GATEOR1_WIR" wirname="schemORbasic" />
+    <item type="wir" name="FolderStructure.wires.item.name.GATEOR2_WIR" wirname="schemORbasic2" />
+    <item type="wir" name="FolderStructure.wires.item.name.GATEOR3_WIR" wirname="schemORbasic3" />
+    <item type="wir" name="FolderStructure.wires.item.name.BIGOR_WIR" wirname="schemOR" />
+    <item type="wir" name="FolderStructure.wires.item.name.GATEXOR1_WIR" wirname="schemXORbasic" />
+    <item type="wir" name="FolderStructure.wires.item.name.GATEXOR2_WIR" wirname="schemXORbasic2" />
+    <item type="wir" name="FolderStructure.wires.item.name.GATEXOR3_WIR" wirname="schemXORbasic3" />
+    <item type="wir" name="FolderStructure.wires.item.name.BIGXOR_WIR" wirname="schemXOR" />
+    <item type="wir" name="FolderStructure.wires.item.name.NEON_WIR" wirname="schemNeon" />
+  </wires>
+  <games>
+    <item type="app" name="FolderStructure.games.item.name.TREEDUDE_EXE" appclass="APPtreedudeintro" unlockable="0" />
+    <item type="app" name="FolderStructure.games.item.name.SHRL_EXE" appclass="APPshrlgame" unlockable="0" />
+    <item type="app" name ="2048.exe" appclass="APP2048" unlockable="0"/>
+    <item type="app" name ="flappy.exe" appclass="APPFlappy" unlockable="0"/>
+    <item type="app" name ="hotslot.exe" appclass="APPHotSlot" unlockable="0"/>
+    <item type="app" name ="hottrain.exe" appclass="APPFroger" unlockable="0"/>
+    <item type="app" name ="logo.exe" appclass="APPOnionMilkLogo" unlockable="0"/>
+    <item type="app" name ="maze.exe" appclass="APPColorMaze" unlockable="0"/>
+    <item type="app" name ="onionman.exe" appclass="APPOnionMan" unlockable="0"/>
+    <item type="app" name ="rogue.exe" appclass="APPRogue" unlockable="0"/>
+  </games>
+  <VR>
+    <item type="app" name="FolderStructure.Data.item.name.VR_EXE" appclass="APPvr"/>
+    <item type="app" name="FolderStructure.VR.item.name.CUBE_EXE" appclass="APPcube" unlockable="0" />
+    <item type="app" name="FolderStructure.VR.item.name.CYLINDER_EXE" appclass="APPcylinder" unlockable="0" />
+    <item type="app" name="FolderStructure.VR.item.name.CAPSULE_EXE" appclass="APPcapsule" unlockable="0" />
+  </VR>
+  <art>
+    <other>
+      <something1>
+      </something1>
+      <something2>
+        <item type="readme" name="FolderStructure.something2.item.name.README_TXT"></item>
+      </something2>
+      <something3>
+        <secret>
+          <private>
+            <really>
+              <item type="readme" name="FolderStructure.really.item.name.PORN_TXT">FolderStructure.really.item.WHAT_ARE_YOU_LOOKING_FOR_HERE</item>
+              
+								<item type="art" name ="pinup.art" artname="pinup"/>
+								<item type="art" name ="krogg.art" artname="krogg"/>
+								<item type="art" name ="pr0n39.art" artname="pr0n39"/>
+								
+            </really>
+          </private>
+        </secret>
+      </something3>
+      <random>
+        <hypno>
+          <item type="app" name="FolderStructure.hypno.item.name.DIY_EXE" appclass="APPshclicker" unlockable="0" />          <item type="app" name="clicker2.exe" appclass="APPShClicker2" unlockable="0" />
+        </hypno>
+      </random>
+    </other>
+    <item type="readme" name = "readme.txt">We would like to fill this 
+folder with LOTS of ASCIIart.
+
+Maybe you would like to
+place your signature here, 
+as a backer? It's an open 
+space for you guys!
+
+Maximim resolution for art
+is 62x22, so choose your
+characters wisely.
+
+Send your art to:
+ascii@superhotgame.com
+			</item>
+    <item type="artcent" name ="super.art" artname="super"/>
+    <item type="artcent" name ="hot.art" artname="hot"/>
+    <item type="artcent" name ="hot2.art" artname="hotsmall"/>
+    <item type="artcent" name ="super2.art" artname="supersmall"/>
+    <item type="artcent" name ="tri.art" artname="tri"/>
+    <item type="artcent" name ="cubes.art" artname="cubes"/>
+    <item type="artcent" name="skull.art" artname="skull"/>
+    <item type="art" name="skull2.art" artname="skull2"/>
+    <item type="artcent" name="FolderStructure.art.item.name.DOG_ART" artname="Dog" />
+    <item type="artcent" name="FolderStructure.art.item.name.KICKSTRT_ART" artname="Addict" />
+    <item type="artcent" name="FolderStructure.art.item.name.ALLEY_ART" artname="Dark alley" />
+    <item type="artcent" name="FolderStructure.art.item.name.HACKER_ART" artname="Hackerroom" />
+    <item type="artcent" name="FolderStructure.art.item.name.CORRIDOR_ART" artname="MadCorridor" />
+    <item type="artcent" name="FolderStructure.art.item.name.DROP_ART" artname="Surrender or die" />
+    <item type="artcent" name="FolderStructure.art.item.name.SUBWAY_ART" artname="Subway station" />
+    <item type="artcent" name="FolderStructure.art.item.name.JUMP_ART" artname="Bunny jump" />
+    <item type="artcent" name="FolderStructure.art.item.name.BAR_ART" artname="Bar" />
+    <item type="artcent" name="FolderStructure.art.item.name.FIGHTCLB_ART" artname="Cage fight" />
+    <item type="artcent" name="FolderStructure.art.item.name.XU_ART" artname="XU" />
+    <item type="artcent" name="FolderStructure.art.item.name.YOU_ART" artname="YOU" />
+  </art>
+  <videos>
+    <item type="vid" name ="taylor.avi" vidname="ss4"/>
+    <item type="vid" name="FolderStructure.videos.item.name.YES_AVI" vidname="ss10" />
+    <item type="vid" name="FolderStructure.videos.item.name.TRAILER_AVI" vidname="ss5" />
+    <item type="vid" name="FolderStructure.videos.item.name.RSM_AVI" vidname="ss8" />
+    
+    <item type="vid" name="FolderStructure.videos.item.name.GIF_AVI" vidname="gif" />
+    <item type="vid" name="FolderStructure.videos.item.name.GIF1_AVI" vidname="gif1" />
+    <item type="vid" name="FolderStructure.videos.item.name.GIF2_AVI" vidname="gif2" />
+    <item type="vid" name="FolderStructure.videos.item.name.GIF3_AVI" vidname="gif4" />
+    
+  </videos>
+  <!--</files>-->
+  <tests>
+   <item type="defaultGodmode" name="FolderStructure.settings.item.name.GODMODE_BAT">FolderStructure.settings.item.GOD_MODE</item>
+   <item type="app" appclass="APPdisplaytext" name="FolderStructure.tests.item.name.MINDCOMM_EXE" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.INGAMPOP_EXE" appclass="APPingamepopup" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.PROMPTER_EXE" appclass="APPprompter" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.GURUCHAT_EXE" appclass="APPguruchat" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.RUNQUEUE_EXE" appclass="APPkill" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.RESTRICT_EXE" appclass="APPrestrict" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.FLOOD_EXE" appclass="APPpopupflood" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.GAME_EXE" appclass="APPtextgame" unlockable="0" />
+  <!-- <item type="reboot" name="FolderStructure.tests.item.name.REBOOT_EXE" /> -->
+   <item type="userlevel" name="FolderStructure.tests.item.name.EDITTEST_LVL" bundle="myeditortest" scene="TestEditorLevel" />
+   <item type="app" name="FolderStructure.tests.item.name.ROAR_EXE" appclass="APProar" unlockable="0" />
+   <item type="lua" name="FolderStructure.tests.item.name.TEST_LUA" luafile="luatest" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.OUTFLOW_EXE" appclass="APPoutflow" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.COPY_EXE" appclass="APPmindcopy" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.XCOPY_EXE" appclass="APPxcopy" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.RECRUIT_EXE" appclass="APPrecruit" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.CONSOLE_COM" appclass="AppSHConsole" unlockable="0" />
+   <item type="app" name="FolderStructure.tests.item.name.SQUARE_EXE" appclass="APPsquare" unlockable="0" />
+
+  </tests>  <extra>  <item type="readme" name = "readme.txt">Files sweet files. That's where I keep all my things.
+
+I like to place things in folders, it makes me feel clean. 
+
+I also like the silliness of writing notes to myself. Like anyone would read that, lol.
+		</item>        <item type="app" name="popup.exe" appclass="APPpopup" unlockable="0"/>        <item type="app" name="popflood.exe" appclass="APPpopupflood" unlockable="0"/>        <item type="app" name="birthday.exe" appclass="APPbirthday" unlockable="0" />        <item type="app" name="church.exe" appclass="APPClientChurch" unlockable="0" />        <item type="app" name="countdown.exe" appclass="APPCountdown" unlockable="0" />        <item type="app" name="credcons.exe" appclass="APPcreditconsole" unlockable="0" />        <item type="app" name="credits1.exe" appclass="APPcredits" unlockable="0" />        <item type="app" name="credits2.exe" appclass="APPcredits2" unlockable="0" />        <item type="app" name="displaytxt.exe" appclass="APPdisplaytext" unlockable="0" />        <item type="app" name="e3ending.exe" appclass="APPE3Ending" unlockable="0" />        <item type="app" name="music.exe" appclass="AppMusic" unlockable="0" />        <item type="app" name="randchat.exe" appclass="APPrandomchat" unlockable="0" />        <item type="app" name="raycast.exe" appclass="AppRaycast" unlockable="0" />        <item type="app" name="recruit1.exe" appclass="APPrecruit" unlockable="0" />        <item type="app" name="recruitdir.exe" appclass="APPrecruitdirect" unlockable="0" />        <item type="app" name="syslog.exe" appclass="APPSystemLog" unlockable="0" />        <item type="app" name="tunnel.exe" appclass="APPtunnel" unlockable="0" />                <item type="app" name="tunnelgen.exe" appclass="APPtunnelsgeneric" unlockable="0" />                <item type="app" name="tunnelserv.exe" appclass="APPTunnelsServer" unlockable="0" />        <item type="app" name="voices.exe" appclass="APPvoices" unlockable="0" />                <item type="app" name="waves.exe" appclass="APPwaves" unlockable="0" />                <item type="app" name="wireworld.exe" appclass="APPwireworld" unlockable="0" />                <item type="app" name="xcopy.exe" appclass="APPxcopy" unlockable="0" />  </extra>  <secrets>        <item type="app" name="secret1.exe" appclass="APPsecretchat1" unlockable="0" />
+
+        <item type="app" name="secret2.exe" appclass="APPsecretchat2" unlockable="0" />
+
+        <item type="app" name="secret3.exe" appclass="APPsecretchat3" unlockable="0" />
+
+        <item type="app" name="secret4.exe" appclass="APPsecretchat4" unlockable="0" />
+
+        <item type="app" name="secret5.exe" appclass="APPsecretchat5" unlockable="0" />
+
+        <item type="app" name="secret6.exe" appclass="APPsecretchat6" unlockable="0" />
+
+        <item type="app" name="secret7.exe" appclass="APPsecretchat7" unlockable="0" />
+
+        <item type="app" name="secret8.exe" appclass="APPsecretchat8" unlockable="0" />
+
+        <item type="app" name="secret9.exe" appclass="APPsecretchat9" unlockable="0" />
+
+        <item type="app" name="secret10.exe" appclass="APPsecretchat10" unlockable="0" />
+
+        <item type="app" name="secret11.exe" appclass="APPsecretchat11" unlockable="0" />
+
+        <item type="app" name="secret12.exe" appclass="APPsecretchat12" unlockable="0" />
+
+        <item type="app" name="secret13.exe" appclass="APPsecretchat13" unlockable="0" />
+
+        <item type="app" name="secret14.exe" appclass="APPsecretchat14" unlockable="0" />
+
+        <item type="app" name="secret15.exe" appclass="APPsecretchat15" unlockable="0" />
+
+        <item type="app" name="secret16.exe" appclass="APPsecretchat16" unlockable="0" />
+
+        <item type="app" name="secret17.exe" appclass="APPsecretchat17" unlockable="0" />
+
+        <item type="app" name="secret18.exe" appclass="APPsecretchat18" unlockable="0" />
+
+        <item type="app" name="secret19.exe" appclass="APPsecretchat19" unlockable="0" />
+
+        <item type="app" name="secret20.exe" appclass="APPsecretchat20" unlockable="0" />
+
+        <item type="app" name="secret21.exe" appclass="APPsecretchat21" unlockable="0" />
+
+        <item type="app" name="secret22.exe" appclass="APPsecretchat22" unlockable="0" />
+
+        <item type="app" name="secret23.exe" appclass="APPsecretchat23" unlockable="0" />
+
+        <item type="app" name="secret24.exe" appclass="APPsecretchat24" unlockable="0" />
+
+        <item type="app" name="secret25.exe" appclass="APPsecretchat25" unlockable="0" />
+
+        <item type="app" name="secret26.exe" appclass="APPsecretchat26" unlockable="0" />
+
+        <item type="app" name="secret27.exe" appclass="APPsecretchat27" unlockable="0" />
+
+        <item type="app" name="secret28.exe" appclass="APPsecretchat28" unlockable="0" />
+
+        <item type="app" name="secret29.exe" appclass="APPsecretchat29" unlockable="0" />
+
+        <item type="app" name="secret30.exe" appclass="APPsecretchat30" unlockable="0" />
+
+        <item type="app" name="secret31.exe" appclass="APPsecretchat31" unlockable="0" />
+
+        <item type="app" name="secret32.exe" appclass="APPsecretchat32" unlockable="0" />
+
+        <item type="app" name="secret33.exe" appclass="APPsecretchat33" unlockable="0" />
+
+        <item type="app" name="secret34.exe" appclass="APPsecretchat34" unlockable="0" />
+
+        <item type="app" name="secret35.exe" appclass="APPsecretchat35" unlockable="0" />
+
+        <item type="app" name="secret36.exe" appclass="APPsecretchat36" unlockable="0" />
+
+        <item type="app" name="secret37.exe" appclass="APPsecretchat37" unlockable="0" />  </secrets>
+</Data>

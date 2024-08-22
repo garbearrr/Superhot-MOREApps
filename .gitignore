@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+*.suo
+*.csproj.user
+*.vs/
+*.exe
+*.dll
+*.htm
+*.snk

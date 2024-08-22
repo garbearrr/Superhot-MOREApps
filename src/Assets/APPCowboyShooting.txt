@@ -1,0 +1,108 @@
+     ______
+    _XXXXXX_
+     G  \/
+      GGGGG
+      GGG
+  T TTTTTTT TTT 
+T  TTTTTTTTT   T
+T   TTTTTTT
+    SSSSSSS
+    TTT TTT
+    TT   TT
+    L     L 
+     ______
+    _XXXXXX_
+     G  \/
+      GG@@@ 
+      GGG
+  T TTTTTTT TT
+T  TTTTTTTTT T
+T   TTTTTTT T
+    SSSSSSS
+    TTT TTT
+    TT   TT
+    L     L 
+     ______
+    _XXXXXX_
+     G  \/
+      GG@@@
+      GGG
+  T TTTTTTT TT 
+T  TTTTTTTTTT  ___ $$
+T   TTTTTTT  TTU   $$
+    SSSSSSS
+    TTT TTT
+     TT   TT
+    L     L
+     ______
+    _XXXXXX_
+     G  \/
+      GG@@@
+      GGG
+  T TTTTTTT TT 
+T  TTTTTTTTTT  ___ $
+T   TTTTTTT  TTU   
+    SSSSSSS
+    TTT TTT
+     TT   TT
+    L     L
+     ______
+    _XXXXXX_
+     G  \/
+      GGGGG
+      GGG
+  T TTTTTTT TT     $
+T  TTTTTTTTTT  ___ $
+T   TTTTTTT  TTU   
+    SSSSSSS
+    TTT TTT
+     TT   TT
+    L     L
+     ______
+    _XXXXXX_
+     G  \/
+      GGGGG
+      GGG          $$
+  T TTTTTTT TT     $$
+T  TTTTTTTTTT  ___ $
+T   TTTTTTT  TTU   
+    SSSSSSS
+    TTT TTT
+     TT   TT
+    L     L
+     ______
+    _XXXXXX_
+     G  \/          $
+      GGGGG       $
+      GGG          $$
+  T TTTTTTT TT     $
+T  TTTTTTTTTT  ___ 
+T   TTTTTTT  TTU   
+    SSSSSSS
+    TTT TTT
+    TT   TT
+    L     L
+     ______
+    _XXXXXX_     $
+     G  \/           $
+      GGGGG        $
+      GGG          
+  T TTTTTTT TT     
+T  TTTTTTTTTT  ___ 
+T   TTTTTTT  TTU   
+    SSSSSSS
+    TTT TTT
+    TT   TT
+    L     L
+     ______
+    _XXXXXX_     
+     G  \/           
+      GGGGG        
+      GGG          
+  T TTTTTTT TT     
+T  TTTTTTTTTT  ___ 
+T   TTTTTTT  TTU   
+    SSSSSSS
+    TTT TTT
+    TT   TT
+    L     L
