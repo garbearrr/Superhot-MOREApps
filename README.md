@@ -30,8 +30,5 @@ There are many YouTube tutorials on how to install mods for any Unity game I rec
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue.
 
-## License
-This project is licensed under the MIT License.
-
 ## Credits
 - [Garbear](https://github.com/garbearrr) - Creator
