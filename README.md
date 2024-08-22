@@ -10,7 +10,7 @@ They are `.hot` files.
 
 
 ## Installation
-1. Download the latest release from the [Releases page](https://github.com/YourUsername/MyMelonMod/releases).
+1. Download the latest release from the [Releases page](https://github.com/garbearrr/Superhot-MOREApps/releases).
    OR
    Download the project source code and build the dll yourself.
 
