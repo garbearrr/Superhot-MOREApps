@@ -32,3 +32,6 @@ Contributions are welcome! Please submit a pull request or open an issue.
 
 ## Credits
 - [Garbear](https://github.com/garbearrr) - Creator
+
+## THIS IS A FAN-MADE MODIFICATION
+This is not a "cracked" version of Superhot. You must own the game on Steam for this to work.
