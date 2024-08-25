@@ -10,7 +10,7 @@ They are `.hot` files.
 
 
 ## Installation
-1. Download the latest release from the [Releases page](https://github.com/YourUsername/MyMelonMod/releases).
+1. Download the latest release from the [Releases page](https://github.com/garbearrr/Superhot-MOREApps/releases).
    OR
    Download the project source code and build the dll yourself.
 
@@ -29,9 +29,6 @@ There are many YouTube tutorials on how to install mods for any Unity game I rec
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue.
-
-## License
-This project is licensed under the MIT License.
 
 ## Credits
 - [Garbear](https://github.com/garbearrr) - Creator
