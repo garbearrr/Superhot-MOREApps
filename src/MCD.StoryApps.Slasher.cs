@@ -580,7 +580,7 @@ namespace MCD.StoryApps.Slasher
 		// Token: 0x06002724 RID: 10020 RVA: 0x00119658 File Offset: 0x00117A58
 		private void InitializeLogo()
 		{
-			this.logo = SlasherCommon.AddFrameFromStr(new SHSharp::SHGUIsprite(), SlasherCommon.AssetToText(SlasherCommon.GetAssetName("Logo.txt")), 17);
+			this.logo = SlasherCommon.AddFrameFromStr(new SHSharp::SHGUIsprite(), SlasherCommon.AssetToText(SlasherCommon.GetAssetName("SlasherLogo.txt")), 17);
 			this.logo.x = 10;
 			this.logo.y = 1;
 			this.logo.color = 'F';

@@ -137,7 +137,7 @@
     <EmbeddedResource Include="Assets\Icons.txt" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Assets\Logo.txt" />
+    <EmbeddedResource Include="Assets\SlasherLogo.txt" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Assets\AC_Westdude_Background.wav" />

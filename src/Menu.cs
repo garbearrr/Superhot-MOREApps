@@ -1701,7 +1701,14 @@ namespace MOREApps
 		{
 			return (SHSharp::SHGUIcommanderbutton button) =>
 			{
-				SHSharp::SHGUI.current.AddViewOnTop(new APPSlasherIntro());
+				try
+				{
+					SHSharp::SHGUI.current.AddViewOnTop(new APPSlasherIntro());
+				}
+				catch (Exception ex)
+				{
+					MelonLogger.Msg(ex.ToString());
+				}
 			};
 		}
 	}
